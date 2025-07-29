@@ -1,0 +1,23 @@
+.odd
+{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.different-font-size
+{
+    font-size: 30px;
+}
+
+#snd
+{
+    font-size: 36px;
+    color: blue;
+}
+
+#fth
+{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
