@@ -1,0 +1,21 @@
+.first,
+.second
+{
+    width: 120px;
+    height: 28px;
+    font-size: 16px;
+
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first
+{
+    background-color: black;
+    color: white;
+}
+
+.second
+{
+    background-color: yellow;
+    color: black;
+}
